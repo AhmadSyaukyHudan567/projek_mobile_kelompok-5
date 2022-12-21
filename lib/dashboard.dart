@@ -68,11 +68,11 @@ class _nameState extends State<Home> {
                         Text('CUSTOMER',style: TextStyle(color: Colors.white, fontSize: 15, fontWeight: FontWeight.bold,),),
                         Image(image: AssetImage('assets/img/panah.jpg'),),
                        Row( mainAxisAlignment: MainAxisAlignment.spaceBetween,)
+
                         
-
-
                       ],
                     ),
+                  
               
                   ],
                 ),
